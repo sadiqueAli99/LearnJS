@@ -1,3 +1,3 @@
-const name="sadique";
+const user="sadique";
 
-console.log(name);
+console.log(user);
