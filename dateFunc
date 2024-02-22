@@ -1,0 +1,8 @@
+let d;
+d= new Date();
+d=d.getFullYear();
+d= new Date();
+d=d.getMonth()+1;
+console.log(d)
+d=intl.DateTimeFormat('Default').for
+console.log(d)
