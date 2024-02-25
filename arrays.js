@@ -21,3 +21,10 @@ x=arr.push(45)
 console.log(arr)
 x=arr.splice(2,6)
 console.log(x,arr)
+
+const a=1
+const b=2
+const c=3
+
+d= Array.of(a,b,c)
+console.log(d)
