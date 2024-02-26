@@ -25,6 +25,7 @@ console.log(x,arr)
 const a=1
 const b=2
 const c=3
+const e='sadique'
 
-d= Array.of(a,b,c)
+d= Array.of(a,b,c,e)
 console.log(d)
