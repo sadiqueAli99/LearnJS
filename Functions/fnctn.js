@@ -5,7 +5,7 @@ function user(name="Bot")
     return name + ' registerd sucessfully'
 }
 
-console.log(user('sadique'))
+console.log(user('Noora'))
 
 //rset function
 
