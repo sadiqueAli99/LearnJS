@@ -10,3 +10,4 @@ const dummy={
 
 console.log(loginuser(dummy))
 console.log(loginuser({id:2,name:'noor'}))
+console.log(loginuser({id:3,name:'swaliha'}))
